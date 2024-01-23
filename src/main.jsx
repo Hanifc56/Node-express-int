@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
+import "./app.css";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Main from "./Components/Main.jsx";
 import Phones from "./Components/Phones.jsx";
